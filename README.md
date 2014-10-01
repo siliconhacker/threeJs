@@ -4,8 +4,7 @@ Introduction to 3d development with javascript.  three.js develivers what you ne
 
 ## Theory
 
-###what is
-So, What is 3D?
+###So, What is 3D?
 
 In the broadest definition of the term, "3D" would describe any object that occurs on a three-axis Cartesian coordinate system. If that sounds a tad technical, fear not—we'll clear it up right away.
 
@@ -116,7 +115,7 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 
 
 
-###3d Categories
+###3D Categories
 
 3-D Design, Advertising, Animation, Computer Graphics, Graphic Design, Desktop Publishing, Digital Design and Imaging, Fashion Design, Illustration, Digital Video, Interior Design and Decoration, Typography, Multimedia, Photography, Photo styling, Textile Arts, User Interface Design, Online Publishing, Game Design, Web Design, Web Application Development, and CAD Design.
 
@@ -153,11 +152,16 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 > - Welcome to a world of fantasy and design at your finger tips!
 
 
+
 > **Industrial Design:**
 
 > - Industrial designers are responsible for the designs of the every-day objects that populate our lives, combining art and engineering in their aim to strike the perfect balance between form and function.
 
 
 *read more:*   http://www.design-training.com/
+
+
+## Development
+
 
 
