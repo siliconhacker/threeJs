@@ -19,12 +19,9 @@ You remember making little graphs and charts with the X axis being horizontal, a
 So by definition, any object that can be represented on a three-axis system is 3D. This isn't the whole story, of course.
 
 *read more:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
-----------
 
 
-
-###2d vs 3d  art
------------------
+###2D vs 3D  Art
 The process of creating 2D art is simple: grab a writing utensil, and start drawing on a canvas. You can use a pencil and paper, or you can even use chalk on a street.
 
 Three-dimensional art is a bit more tricky. You could always create the illusion of 3D art with two-dimensional art tools, like drawing a house on a piece of paper. One of my favorite accessible examples of 3D art is using clay to create models. Whether you’re building from the ground up using putty or painting in your favorite Warhammer 40k figurine, 3D art allows you to see every angle.
