@@ -172,11 +172,11 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 
 *read more:*   http://www.design-training.com/
 
-----------
-###github 
----------
-https://github.com/siliconhacker/threeJs
 
 
 
+### Table of contents
 
+You can insert a table of contents using the marker `[TOC]`:
+
+[TOC]
