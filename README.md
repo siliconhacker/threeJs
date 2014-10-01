@@ -1,8 +1,12 @@
 #threeJs
+http://www.threejs.org
 
 Introduction to 3d development with javascript.  three.js develivers what you need.
 
 ## Theory
+
+Notice the bug in his 3D user test results
+*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m20s
 
 ###So, What is 3D?
 
@@ -142,29 +146,29 @@ The Outlook
 > - Computer animators work in 3-D, creating their characters with the subtleties and realistic motion of everyday life. Computer animation is an artful blend of creative vision and technology.
 
 > - Computer graphics, animation, and audio and video techniques soon follow. Your goal: Build a digital portfolio that shows how well you bring your characters and storytelling abilities to life.
-> - [![](http://ts3.mm.bing.net/th?id=HN.608015263151885468&w=214&h=168&c=7&rs=1&pid=1.7)]
+> - ![](http://ts3.mm.bing.net/th?id=HN.608015263151885468&w=214&h=168&c=7&rs=1&pid=1.7)
 
 > **Fashion Design:**
 
 > - The Fashion Designing industry is fast-paced, competitive and rapidly changing. Hard work, determination and passion are needed to succeed in this field. Successful fashion designers must have the ability to present visually their ideas and to guide them though production.
-> - [![](http://ts1.mm.bing.net/th?&id=HN.608046612126500921&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - ![](http://ts1.mm.bing.net/th?&id=HN.608046612126500921&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 > **Graphic Design:**
 
 
 > - Graphic Design programs emphasize conceptual development, strategic thinking, mastery of technique and verbal presentation in a stimulating and innovative environment. Learn to develop finely tuned skills in the areas of typography, print mediums, packaging, branding and identity, web design and motion graphics (more graphic).
-> - [![](http://ts1.mm.bing.net/th?&id=HN.608020073520368717&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - ![](http://ts1.mm.bing.net/th?&id=HN.608020073520368717&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 > **Game Design:**
 
 > - Welcome to a world of fantasy and design at your finger tips!
-> - [![](http://ts1.mm.bing.net/th?&id=HN.607997890012514568&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - ![](http://ts1.mm.bing.net/th?&id=HN.607997890012514568&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 
 > **Industrial Design:**
 
 > - Industrial designers are responsible for the designs of the every-day objects that populate our lives, combining art and engineering in their aim to strike the perfect balance between form and function.
-> - [![](http://ts1.mm.bing.net/th?&id=HN.607986280712765780&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - ![](http://ts1.mm.bing.net/th?&id=HN.607986280712765780&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 *read more:*   http://www.design-training.com/
 
@@ -172,5 +176,6 @@ The Outlook
 ## Development
 
 
+My results in 3D development
+*Simpsons:*  https://www.youtube.com/watch?v=rOgS8gTATv8
 
-*read more:*  https://www.youtube.com/watch?v=rOgS8gTATv8
