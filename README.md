@@ -1,6 +1,3 @@
-
-[TOC]
-
 #threeJs
 
 Introduction to 3d development with javascript.  three.js develivers what you need.
@@ -31,15 +28,14 @@ Three-dimensional art is a bit more tricky. You could always create the illusion
 
 
 
-
-----------
-###movie 3d
--------------
+###Movie 3D
 3D in Relation to Film/Cinema:
 
 The basic definition of 3D space stays the same: Everything about the X, Y, and Z-axis still holds true, but there's one catch. While real world 3D objects physically exist in three dimensions, in the digital world of computer graphics 3D objects can only be represented mathematically.
 
-3D Models: Any representation of an object in digital space, is called a 3D model. If you took a look at the raw information that comprises a basic 3D model, it would simply (or not so simply) be a collection of data points that mark thousands or millions of different coordinates in Cartesian space.
+3D Models: 
+
+Any representation of an object in digital space, is called a 3D model. If you took a look at the raw information that comprises a basic 3D model, it would simply (or not so simply) be a collection of data points that mark thousands or millions of different coordinates in Cartesian space.
 
 The word 3D means something entirely different when used in reference to 3D movies (the kind that require you to wear glasses and make you want to reach out and try to touch the things popping out of the screen). 3D films can, and often do, have an aspect of 3D computer graphics, however there are plenty of traditionally shot, non-CG films that have taken advantage of the recent resurgence of 3D cinema.
 
@@ -85,14 +81,13 @@ Common display methods include:
     Polarized light system (polarized filter glasses): The most common new system for cinemas.
     Active shutter system (LCD shutter glasses): The most likely standard for the first generation of 3D televisions and other displays.
 
-*read more:*  
-http://www.mediacollege.com/3d/intro.html
-http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
+*read more:*  http://www.mediacollege.com/3d/intro.html
+*read more:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
 
 
-----------
-###2d vs 3d graphic
------------------------
+
+###2D vs 3D Graphics
+
 2D Animation
 
     To construct a 2D animation, the animator will use bitmap images that consist of blocks of color. When these blocks of color are placed side by side, they create a picture, according to AnimationSchoolReview.com.
@@ -121,9 +116,7 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 
 
 
-----------
 ###3d Categories
--------------------
 
 3-D Design, Advertising, Animation, Computer Graphics, Graphic Design, Desktop Publishing, Digital Design and Imaging, Fashion Design, Illustration, Digital Video, Interior Design and Decoration, Typography, Multimedia, Photography, Photo styling, Textile Arts, User Interface Design, Online Publishing, Game Design, Web Design, Web Application Development, and CAD Design.
 
@@ -160,19 +153,11 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 > - Welcome to a world of fantasy and design at your finger tips!
 
 
-
 > **Industrial Design:**
 
 > - Industrial designers are responsible for the designs of the every-day objects that populate our lives, combining art and engineering in their aim to strike the perfect balance between form and function.
 
 
 *read more:*   http://www.design-training.com/
-
-----------
-###github 
----------
-https://github.com/siliconhacker/threeJs
-
-
 
 
