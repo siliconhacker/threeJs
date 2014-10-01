@@ -5,23 +5,9 @@
 
 Introduction to 3d development with javascript.  three.js develivers what you need.
 
-
-
-
 ## Theory
 
-###2d vs 3d  art
------------------
-The process of creating 2D art is simple: grab a writing utensil, and start drawing on a canvas. You can use a pencil and paper, or you can even use chalk on a street.
-
-Three-dimensional art is a bit more tricky. You could always create the illusion of 3D art with two-dimensional art tools, like drawing a house on a piece of paper. One of my favorite accessible examples of 3D art is using clay to create models. Whether you’re building from the ground up using putty or painting in your favorite Warhammer 40k figurine, 3D art allows you to see every angle.
-
-*Read More:*  http://blog.smithmicro.com/2012/09/21/anime-studio/2d-vs-3d-contrasting-the-art-styles/
-
-
-----------
 ###what is
-----------
 So, What is 3D?
 
 In the broadest definition of the term, "3D" would describe any object that occurs on a three-axis Cartesian coordinate system. If that sounds a tad technical, fear not—we'll clear it up right away.
@@ -33,6 +19,19 @@ You remember making little graphs and charts with the X axis being horizontal, a
 So by definition, any object that can be represented on a three-axis system is 3D. This isn't the whole story, of course.
 
 *read more:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
+----------
+
+
+
+###2d vs 3d  art
+-----------------
+The process of creating 2D art is simple: grab a writing utensil, and start drawing on a canvas. You can use a pencil and paper, or you can even use chalk on a street.
+
+Three-dimensional art is a bit more tricky. You could always create the illusion of 3D art with two-dimensional art tools, like drawing a house on a piece of paper. One of my favorite accessible examples of 3D art is using clay to create models. Whether you’re building from the ground up using putty or painting in your favorite Warhammer 40k figurine, 3D art allows you to see every angle.
+
+*Read More:*  http://blog.smithmicro.com/2012/09/21/anime-studio/2d-vs-3d-contrasting-the-art-styles/
+
+
 
 
 
@@ -172,11 +171,11 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 
 *read more:*   http://www.design-training.com/
 
+----------
+###github 
+---------
+https://github.com/siliconhacker/threeJs
 
 
 
-### Table of contents
 
-You can insert a table of contents using the marker `[TOC]`:
-
-[TOC]
