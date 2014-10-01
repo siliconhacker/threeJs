@@ -16,14 +16,16 @@ So by definition, any object that can be represented on a three-axis system is 3
 
 ![](http://ts1.mm.bing.net/th?&id=HN.607998396810923044&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
-*read more:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
+*Read More:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
 
 
 ###2D vs 3D  Art
 The process of creating 2D art is simple: grab a writing utensil, and start drawing on a canvas. You can use a pencil and paper, or you can even use chalk on a street.
 
 Three-dimensional art is a bit more tricky. You could always create the illusion of 3D art with two-dimensional art tools, like drawing a house on a piece of paper. One of my favorite accessible examples of 3D art is using clay to create models. Whether you’re building from the ground up using putty or painting in your favorite Warhammer 40k figurine, 3D art allows you to see every angle.
+
 ![](http://ts1.mm.bing.net/th?&id=HN.607999839928060370&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
+
 *Read More:*  http://blog.smithmicro.com/2012/09/21/anime-studio/2d-vs-3d-contrasting-the-art-styles/
 
 
@@ -84,8 +86,8 @@ Common display methods include:
 
 ![](http://ts1.mm.bing.net/th?&id=HN.608010401252118515&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
-*read more:*  http://www.mediacollege.com/3d/intro.html
-*read more:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
+*Read More:*  http://www.mediacollege.com/3d/intro.html
+*Read More:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
 
 
 
@@ -111,10 +113,10 @@ The Outlook
 
     Both 2D and 3D techniques are now being used in the creation of animated projects. According to AnimationSchoolReview.com, this means that both 2D and 3D animations that have been artistically integrated together will become the norm on many animation projects in the future.
 
---------
+
 ![](http://ts1.mm.bing.net/th?&id=HN.608030510285721449&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
-Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
+*Read More:* http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 
 
 
@@ -133,42 +135,42 @@ Read more : http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
 > - The building then becomes a unique expression of the architect as artist and as engineer.
 
 > - In addition to considerations of form and function, architects must also keep safety as well as local laws and regulations in mind.
-![](http://ts1.mm.bing.net/th?&id=HN.608038533286658319&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
+> - ![](http://ts1.mm.bing.net/th?&id=HN.608038533286658319&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 > **Computer Animation:**
 
 > - Computer animators work in 3-D, creating their characters with the subtleties and realistic motion of everyday life. Computer animation is an artful blend of creative vision and technology.
 
 > - Computer graphics, animation, and audio and video techniques soon follow. Your goal: Build a digital portfolio that shows how well you bring your characters and storytelling abilities to life.
-[![](http://ts3.mm.bing.net/th?id=HN.608015263151885468&w=214&h=168&c=7&rs=1&pid=1.7)]
+> - [![](http://ts3.mm.bing.net/th?id=HN.608015263151885468&w=214&h=168&c=7&rs=1&pid=1.7)]
 
 > **Fashion Design:**
 
 > - The Fashion Designing industry is fast-paced, competitive and rapidly changing. Hard work, determination and passion are needed to succeed in this field. Successful fashion designers must have the ability to present visually their ideas and to guide them though production.
-[![](http://ts1.mm.bing.net/th?&id=HN.608046612126500921&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - [![](http://ts1.mm.bing.net/th?&id=HN.608046612126500921&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
 
 > **Graphic Design:**
 
 
 > - Graphic Design programs emphasize conceptual development, strategic thinking, mastery of technique and verbal presentation in a stimulating and innovative environment. Learn to develop finely tuned skills in the areas of typography, print mediums, packaging, branding and identity, web design and motion graphics (more graphic).
-[![](http://ts1.mm.bing.net/th?&id=HN.608020073520368717&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - [![](http://ts1.mm.bing.net/th?&id=HN.608020073520368717&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
 
 > **Game Design:**
 
 > - Welcome to a world of fantasy and design at your finger tips!
-[![](http://ts1.mm.bing.net/th?&id=HN.607997890012514568&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - [![](http://ts1.mm.bing.net/th?&id=HN.607997890012514568&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
 
 
 > **Industrial Design:**
 
 > - Industrial designers are responsible for the designs of the every-day objects that populate our lives, combining art and engineering in their aim to strike the perfect balance between form and function.
-[![](http://ts1.mm.bing.net/th?&id=HN.607986280712765780&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
+> - [![](http://ts1.mm.bing.net/th?&id=HN.607986280712765780&w=300&h=300&c=0&pid=1.9&rs=0&p=0)]
 
 *read more:*   http://www.design-training.com/
 
 
 ## Development
 
-[![](https://www.youtube.com/watch?v=rOgS8gTATv8)]
+
 
 *read more:*  https://www.youtube.com/watch?v=rOgS8gTATv8
