@@ -13,7 +13,7 @@ The Pragmatic Programmers 3D Game Programming for Kids
 
 ###So, What is 3D?
 
-In the broadest definition of the term, "3D" would describe any object that occurs on a three-axis Cartesian coordinate system. If that sounds a tad technical, fear not—we'll clear it up right away.
+<p>In the broadest definition of the term, "3D" would describe any object that occurs on a three-axis Cartesian coordinate system. If that sounds a tad technical, fear not—we'll clear it up right away.</p>
 
 A Cartesian coordinate system is basically a fancy way of describing the X and Y axes we're all familiar with from high-school geometry (think graph paper).
 
@@ -229,9 +229,6 @@ Lets start code 3D in the browser
 star wars 7
 http://codepen.io/silicon_hacker/pen/tuJvm
 
-<p>I strongly recommend against using any
-<code>&lt;blink&gt;</code> tags.</p>
-
 3D examples by others:
 
 spin blocks
@@ -280,8 +277,11 @@ http://codepen.io/zadvorsky/pen/CjlBh
 
 ## Related Video?
 
-Nuclear Power Plant for Kids (50 secs)
-*Simpsons:*  http://youtu.be/rOgS8gTATv8?t=50s
-> 
-3D game testing (10 secs)
-*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m30s
+<ol>
+<li>Nuclear Power Plant for Kids (50 secs)</li>
+<li>*Simpsons:*  http://youtu.be/rOgS8gTATv8?t=50s</li>
+<li></li>
+<li>3D game testing (10 secs)</li>
+<li>*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m30s</li>
+</ol>
+
