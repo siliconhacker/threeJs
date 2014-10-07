@@ -2,10 +2,10 @@
 http://www.threejs.org
 
 Introduction to 3d development with javascript.  three.js develivers what you need.
+>We are going to cover 3D Theroy, 3D Examples, 3D Game Code Walkthrough
 
-## Theory
-
-Notice the bug in his 3D user test results
+## Theory TL;DR
+3D user test results
 *Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m20s
 
 ###So, What is 3D?
@@ -22,7 +22,6 @@ So by definition, any object that can be represented on a three-axis system is 3
 
 *Read More:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
 
-
 ###2D vs 3D  Art
 The process of creating 2D art is simple: grab a writing utensil, and start drawing on a canvas. You can use a pencil and paper, or you can even use chalk on a street.
 
@@ -31,9 +30,6 @@ Three-dimensional art is a bit more tricky. You could always create the illusion
 ![](http://ts1.mm.bing.net/th?&id=HN.607999839928060370&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 *Read More:*  http://blog.smithmicro.com/2012/09/21/anime-studio/2d-vs-3d-contrasting-the-art-styles/
-
-
-
 
 ###Movie 3D
 3D in Relation to Film/Cinema:
@@ -46,15 +42,11 @@ Any representation of an object in digital space, is called a 3D model. If you t
 
 The word 3D means something entirely different when used in reference to 3D movies (the kind that require you to wear glasses and make you want to reach out and try to touch the things popping out of the screen). 3D films can, and often do, have an aspect of 3D computer graphics, however there are plenty of traditionally shot, non-CG films that have taken advantage of the recent resurgence of 3D cinema.
 
-
     Binocular Disparity:The key to human depth perception has everything to do with the fact that our eyes each send a slightly different image to the brain. Our brain derives a perception of distance by interpreting the difference in the image from the left and right eye. This is known as binocular disparity.
 
     A full discussion of how the 3D illusion is brought to life can get quite long-winded, and this isn't the appropriate forum for it. We will give you one final definition, which serves as the basis for how 3D films are created today:
 
     Stereoscopy: To create the illusion of depth, filmmakers have had to develop ways to mimic binocular disparity. The common means for achieving this is to use dual or alternating projection systems in conjunction with polarized glasses that ensure that the left and right eye always receive a slightly different image. This is known as stereoscopy, hence the term stereoscopic 3D.
-
-
-
 
 3D means three-dimensional, i.e. something that has width, height and depth (length). Our physical environment is three-dimensional and we move around in 3D every day.
 
@@ -93,8 +85,6 @@ Common display methods include:
 *Read More:*  http://www.mediacollege.com/3d/intro.html
 *Read More:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
 
-
-
 ###2D vs 3D Graphics
 
 2D Animation
@@ -121,10 +111,6 @@ The Outlook
 ![](http://ts1.mm.bing.net/th?&id=HN.608030510285721449&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 *Read More:* http://www.ehow.com/facts_5834100_2d-animation-vs_-3d-animation.html
-
-
-
-
 
 ###3D Categories
 
@@ -173,9 +159,114 @@ The Outlook
 *read more:*   http://www.design-training.com/
 
 
+
 ## Development
+Before we get started lets review our steps to develop with ThreeJS.  
+
+At a thousand foot view we see a world and shapes.  The world defines our boundries and the shapes are what we are visualizing.
+
+> world:
+> - scene/camera/renderer
+> shapes:
+> - objects/functions
+
+To build a world and put shapes in it.  We go through a few abstract steps.
+*1* Start with a scene
+*2* Add camera perspective
+*3* Render canva or webgl
+*4* Add objects
+*5* View frame in browser
+
+Lets start code 3D in the browser
+
+1- ballBoxTube.htm
+//DEMO WHAT IT TAKES TO SETUP UP A SCENE
+//ADD THREE JS OBJECTS
 
 
+2 - colorTextureShadowWebGL.htm
+//ADD DONUT
+//WE WILL DEMO WEBGL 
+//WE WILL DEMO THE ANIMATED SPINNING DONUT IN WEBGL 
+
+3 - avatarMove.htm
+//ADD AVATAR
+//ADD KEYBOARD
+//WE WILL DEMO THE AVATAR ANIMATION 
+
+4 - avatarTrees.htm
+//WE WILL DEMO THE CAMERA MARKER
+//ADD TREES THAT AVATAR CAN PASS THROUGH
+
+5 - avatarTweenWalkTreeCollision.htm
+//WE WILL DEMO THE TWEEN SMOOTHNESS
+//ADD COLLISION DETECTION TO TREES THAT AVATAR CAN NOT PASS THROUGH
+
+
+
+*learn more*        http://gamingJS.com
+*read more:*        http://threejs.org/docs/
+*online editor:*    http://threejs.org/editor/
+
+----------------
+
+
+
+
+
+
+
+
+## 3D Examples
+
+star wars 7
+http://codepen.io/silicon_hacker/pen/tuJvm
+
+3D examples by others:
+
+spin blocks
+http://codepen.io/johnblazek/pen/DqGAg
+
+flat design
+http://codepen.io/koheishingai/pen/yfxnH
+
+geosphere doodle
+http://codepen.io/jonbrennecke/pen/yBCel
+
+tween worm
+http://codepen.io/tobbecnet/pen/Lfdxu
+
+matrix sphere
+http://codepen.io/uriuriuriu/pen/rCiqz
+
+thermoGlobalNucularWar
+http://codepen.io/naoyashiga/pen/roaBy
+
+digiStringArt
+http://codepen.io/Octavector/pen/rdbHt
+
+texture graphic
+http://codepen.io/Mombasa/pen/ivdyC
+
+digi sponge
+http://codepen.io/naoyashiga/pen/fealH
+
+digi spin coil
+http://codepen.io/code_dependant/pen/CKako
+
+desert art
+http://codepen.io/Francext/pen/xcaHD
+
+eqlizer
+http://codepen.io/caseyyee/pen/bhuFa
+
+tween2Flat
+http://codepen.io/auginator/pen/msaEH
+
+jelly fish
+http://codepen.io/zadvorsky/pen/CjlBh
+
+## 
 My results in 3D development
 *Simpsons:*  https://www.youtube.com/watch?v=rOgS8gTATv8
 

@@ -28,10 +28,11 @@ var scoreboard = new Scoreboard();
 scoreboard.countdown(45);
 scoreboard.score();
 scoreboard.help(
-  '[1]Arrow keys to move.<br>'+
-  '[2]Space bar to jump for fruit<br>'+
-  '[3]Watch for shaking trees with fruit<br>'+
-  '[4]Get near the tree and jump before the fruit is gone!'
+  '[1] Arrow keys to move.<br>'+
+  '[2] Space bar to jump for fruit<br>'+
+  '[3] Watch for shaking trees<br>'+
+  '[4] Jump near the tree before the points stop!<br>'+
+  '[5] Refresh page to start over'
   );
 
 
@@ -39,7 +40,7 @@ var game_over = false;
 scoreboard.onTimeExpired(function() {
   scoreboard.messageg("Game Over!");
   game_over = true;
-  });
+});
 
 
 //3 add camera to marker

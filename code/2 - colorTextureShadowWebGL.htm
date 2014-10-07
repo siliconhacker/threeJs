@@ -1,0 +1,67 @@
+<body>2 - colorTextureShadowWebGL.htm</body>
+<script src="http://gamingJS.com/Three.js"></script>
+<script src="http://gamingJS.com/ChromeFixes.js"></script>
+<script>
+//ADD DONUT
+//WE WILL DEMO WEBGL 
+//WE WILL DEMO THE ANIMATED SPINNING DONUT IN WEBGL 
+
+
+  // This sets the stage for objects
+  var scene = new THREE.Scene();
+
+  // This sets the camera
+  var aspect_ratio = window.innerWidth / window.innerHeight;
+  var camera = new THREE.PerspectiveCamera(75, aspect_ratio, 1, 10000);
+  camera.position.z = 500;
+  scene.add(camera);
+
+  // This will draw what the camera sees onto the screen:
+  // We are using the WebGL instead of the canvas
+  var renderer = new THREE.WebGLRenderer();
+  renderer.shadowMapEnabled = true;
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  document.body.appendChild(renderer.domElement);
+
+  // ******** DONUT ********
+  var shape = new THREE.TorusGeometry(100, 50, 8, 20);
+  var cover = new THREE.MeshPhongMaterial();
+  // ******** SHADE RED DONUT ********
+  cover.emissive.setRGB(0.8, 0.1, 0.1);
+  var donut = new THREE.Mesh(shape, cover);
+  scene.add(donut);
+  donut.castShadow = true;
+  // ******** SET LIGHT SOURCE RIGHT SIDE ********
+  var sunLight = new THREE.DirectionalLight();
+  sunLight.intensity = 0.5;
+  sunLight.position.set(100, 100, 100);
+  scene.add(sunLight);
+  sunLight.castShadow = true;
+  // ******** SMOKE SHADOW DONUT ********
+  var shape = new THREE.PlaneGeometry(1000, 1000);
+  var cover = new THREE.MeshBasicMaterial();
+  var ground = new THREE.Mesh(shape, cover);
+  scene.add(ground);
+  ground.position.set(0, -200, 0);
+  ground.rotation.set(-Math.PI/2, 0, 0);
+  ground.receiveShadow = true;
+
+  
+  // ******** RENDER DONUT ********
+  renderer.render(scene, camera);
+
+  //COMMENT * RENDER DONUT * LINE ABOVE AND UNCOMMENT * SPINNING DONUT *
+
+  //  // ******** SPINNING DONUT ********
+  //  var clock = new THREE.Clock();
+  //  function animate() {
+  //    requestAnimationFrame(animate);
+  //    var time = clock.getElapsedTime();
+  //    donut.rotation.set(time, 2*time, 0);
+  //    renderer.render(scene, camera);
+  //  }
+  //  animate();
+
+</script>
+
+

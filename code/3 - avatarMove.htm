@@ -1,0 +1,84 @@
+<body>3 - avatarMove.htm</body>
+<script src="http://gamingJS.com/Three.js"></script>
+<script src="http://gamingJS.com/ChromeFixes.js"></script>
+<script>
+//ADD AVATAR
+//ADD KEYBOARD
+//WE WILL DEMO THE AVATAR ANIMATION 
+
+  // This is where stuff in our game will happen:
+  var scene = new THREE.Scene();
+  // This is what sees the stuff:
+  var aspect_ratio = window.innerWidth / window.innerHeight;
+  var camera = new THREE.PerspectiveCamera(75, aspect_ratio, 1, 10000);
+  camera.position.z = 500;
+  scene.add(camera);
+  // This will draw what the camera sees onto the screen:
+  var renderer = new THREE.CanvasRenderer();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  document.body.appendChild(renderer.domElement);
+
+
+  // ******** AVATAR body
+  var cover = new THREE.MeshNormalMaterial();
+  var body = new THREE.SphereGeometry(100);
+  var avatar = new THREE.Mesh(body, cover);
+  scene.add(avatar);
+  // ******** AVATAR right hand
+  var hand = new THREE.SphereGeometry(50);
+  var right_hand = new THREE.Mesh(hand, cover);
+  right_hand.position.set(-150, 0, 0);
+  avatar.add(right_hand);
+  // ******** AVATAR left hand
+  var left_hand = new THREE.Mesh(hand, cover);
+  left_hand.position.set(150, 0, 0);
+  avatar.add(left_hand);
+
+  // ******** AVATAR right foot
+  var foot = new THREE.SphereGeometry(50);
+  var right_foot = new THREE.Mesh(foot, cover);
+  right_foot.position.set(-100, -100, 0);
+  avatar.add(right_foot);
+  // ******** AVATAR left hand
+  var left_foot = new THREE.Mesh(foot, cover);
+  left_foot.position.set(100, -100, 0);
+  avatar.add(left_foot);
+
+  //AVATAR flipping on off
+  var is_flipping = false;
+  //AVATAR cartwheeln on off
+  var is_cartwheeln = false;
+  //AVATAR spin on off
+  var is_spinning = false;
+
+  // ******** ANIMATE AVATAR to UI AND KEY EVENTS
+  function animate() {
+   requestAnimationFrame(animate);
+   if (is_flipping) {
+   avatar.rotation.x = avatar.rotation.x + 0.05;
+   }
+  if (is_cartwheeln) {
+   avatar.rotation.z = avatar.rotation.z + 0.05;
+   }
+   if (is_spinning) {
+   avatar.rotation.y = avatar.rotation.y + 0.05;
+   }
+  renderer.render(scene, camera);
+  }
+
+  // ****** TURN ON UI AVATAR ANIMATIONS
+  animate();
+
+  //listen to keyboard events From AVATAR UI
+  document.addEventListener('keydown', function(event) {
+    var code = event.keyCode;
+    if (code == 37) avatar.position.x = avatar.position.x-5;  //left
+    if (code == 38) avatar.position.z = avatar.position.z-5;  //up
+    if (code == 39) avatar.position.x = avatar.position.x+5;  //right
+    if (code == 40) avatar.position.z = avatar.position.z+5;  //down
+    if (code == 67) is_flipping = !is_flipping;  //c
+    if (code == 70) is_cartwheeln = !is_cartwheeln;  //f
+    if (code == 71) is_spinning = !is_spinning;  //g
+  });
+
+</script>
