@@ -3,7 +3,7 @@ http://www.threejs.org
 
 Introduction to 3d development with javascript.  three.js develivers what you need.
 >We are going to cover 3D Theroy, 3D Examples, 3D Game Code Walkthrough
-
+----------------
 ## Theory TL;DR
 3D user test results (10 secs)
 *Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m30s
@@ -160,11 +160,16 @@ The Outlook
 
 *read more:*   http://www.design-training.com/
 
+----------------
 
+##  Where Its @
+*learn more*        http://gamingJS.com
+*read more:*        http://threejs.org/docs/
+*online editor:*    http://threejs.org/editor/
+
+----------------
 
 ## Development
-Before we get started lets review our steps to develop with ThreeJS.  
-
 At a thousand foot view we see a world and shapes.  The world defines our boundries and the shapes are what we are visualizing.
 
 > world:
@@ -173,43 +178,44 @@ At a thousand foot view we see a world and shapes.  The world defines our boundr
 > shapes:
 > - objects/functions
 
-To build a world and put shapes in it.  We go through a few abstract steps.
-*1* Start with a scene
-*2* Add camera perspective
-*3* Render canva or webgl
-*4* Add objects
-*5* View frame in browser
+![](http://ts1.mm.bing.net/th?&id=HN.608020073520368717&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
+
+> To build a world and put shapes in it.  We go through a few abstract steps.
+> - *1* Start with a scene
+> - *2* Add camera perspective
+> - *3* Render canva or webgl
+> - *4* Add objects
+> - *5* View frame in browser
+
+![](http://www.3dkingdom.org/images/tutorials/bullet/images/matrix02.gif)
 
 Lets start code 3D in the browser
 
-1- ballBoxTube.htm
-//DEMO WHAT IT TAKES TO SETUP UP A SCENE
-//ADD THREE JS OBJECTS
+> 1- ballBoxTube.htm
+> - DEMO WHAT IT TAKES TO SETUP UP A SCENE
+> - ADD THREE JS OBJECTS
 
 
-2 - colorTextureShadowWebGL.htm
-//ADD DONUT
-//WE WILL DEMO WEBGL 
-//WE WILL DEMO THE ANIMATED SPINNING DONUT IN WEBGL 
+> 2 - colorTextureShadowWebGL.htm
+> - ADD DONUT
+> - WE WILL DEMO WEBGL 
+> - WE WILL DEMO THE ANIMATED SPINNING DONUT IN WEBGL 
 
-3 - avatarMove.htm
-//ADD AVATAR
-//ADD KEYBOARD
-//WE WILL DEMO THE AVATAR ANIMATION 
+> 3 - avatarMove.htm
+> - ADD AVATAR
+> - ADD KEYBOARD
+> - WE WILL DEMO THE AVATAR ANIMATION 
 
-4 - avatarTrees.htm
-//WE WILL DEMO THE CAMERA MARKER
-//ADD TREES THAT AVATAR CAN PASS THROUGH
+> 4 - avatarTrees.htm
+> - WE WILL DEMO THE CAMERA MARKER
+> - ADD TREES THAT AVATAR CAN PASS THROUGH
 
-5 - avatarTweenWalkTreeCollision.htm
-//WE WILL DEMO THE TWEEN SMOOTHNESS
-//ADD COLLISION DETECTION TO TREES THAT AVATAR CAN NOT PASS THROUGH
+> 5 - avatarTweenWalkTreeCollision.htm
+> - WE WILL DEMO THE TWEEN SMOOTHNESS
+> - ADD COLLISION DETECTION TO TREES THAT AVATAR CAN NOT PASS THROUGH
 
 
 
-*learn more*        http://gamingJS.com
-*read more:*        http://threejs.org/docs/
-*online editor:*    http://threejs.org/editor/
 
 ----------------
 
