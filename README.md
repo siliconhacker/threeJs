@@ -29,7 +29,7 @@ The process of creating 2D art is simple: grab a writing utensil, and start draw
 
 Three-dimensional art is a bit more tricky. You could always create the illusion of 3D art with two-dimensional art tools, like drawing a house on a piece of paper. One of my favorite accessible examples of 3D art is using clay to create models. Whether you’re building from the ground up using putty or painting in your favorite Warhammer 40k figurine, 3D art allows you to see every angle.
 
-![](http://ts1.mm.bing.net/th?&id=HN.607999839928060370&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
+![](http://ts1.mm.bing.net/th?&id=HNN.608003649571784871&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 *Read More:*  http://blog.smithmicro.com/2012/09/21/anime-studio/2d-vs-3d-contrasting-the-art-styles/
 
@@ -137,7 +137,7 @@ The Outlook
 > - Computer animators work in 3-D, creating their characters with the subtleties and realistic motion of everyday life. Computer animation is an artful blend of creative vision and technology.
 
 > - Computer graphics, animation, and audio and video techniques soon follow. Your goal: Build a digital portfolio that shows how well you bring your characters and storytelling abilities to life.
-> - ![](http://ts3.mm.bing.net/th?id=HN.608015263151885468&w=214&h=168&c=7&rs=1&pid=1.7)
+> - ![](http://ts1.mm.bing.net/th?&id=HNN.608038507524000574&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 > **Fashion Design:**
 
