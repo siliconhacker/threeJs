@@ -20,7 +20,7 @@ You remember making little graphs and charts with the X axis being horizontal, a
 
 So by definition, any object that can be represented on a three-axis system is 3D. This isn't the whole story, of course.
 
-![](http://ts1.mm.bing.net/th?&id=HN.607998396810923044&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
+![](http://ts3.mm.bing.net/th?id=HNN.607988217748587507&w=225&h=180&c=7&rs=1&pid=1.7)
 
 *Read More:*  http://3d.about.com/od/3d-101-The-Basics/a/3d-Defined-What-Is-3d.htm
 
