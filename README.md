@@ -1,15 +1,14 @@
-<h1>ThreeJS</h1>
 #ThreeJS
 http://www.threejs.org
 
-Introduction to 3D development with javascript.  ThreeJS develivers what you need.
-We are going to cover 3D Theroy, 3D Examples, and 3D Game Code Walkthrough.  
+Introduction to 3D development with JavaScript.  ThreeJS delivers what you need.
+We are going to cover 3D Theory, Where Its @, 3D Development, and other 3D Examples.  
 
 Reference Book:
 The Pragmatic Programmers 3D Game Programming for Kids
 
 ----------------
-## Theory TL;DR
+## 3D Theory TL;DR
 
 ###So, What is 3D?
 
@@ -165,7 +164,6 @@ The Outlook
 *read more:*   http://www.design-training.com/
 
 ----------------
-
 ##  Where Its @
 *learn more*        http://gamingJS.com
 > 
@@ -174,7 +172,6 @@ The Outlook
 *online editor:*    http://threejs.org/editor/
 
 ----------------
-
 ## Development
 At a thousand foot view we see a world and shapes.  The world defines our boundries and the shapes are what we are visualizing.
 
@@ -277,11 +274,11 @@ http://codepen.io/zadvorsky/pen/CjlBh
 
 ## Related Video?
 
-<ol>
+<ul>
 <li>Nuclear Power Plant for Kids (50 secs)</li>
 <li>*Simpsons:*  http://youtu.be/rOgS8gTATv8?t=50s</li>
-<li></li>
+<br>
 <li>3D game testing (10 secs)</li>
 <li>*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m30s</li>
-</ol>
+</ul>
 
