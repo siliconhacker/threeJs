@@ -5,8 +5,8 @@ Introduction to 3d development with javascript.  three.js develivers what you ne
 >We are going to cover 3D Theroy, 3D Examples, 3D Game Code Walkthrough
 
 ## Theory TL;DR
-3D user test results
-*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m20s
+3D user test results (10 secs)
+*Grandma's Boy:* http://youtu.be/-ltORkYAdVk?t=1m30s
 
 ###So, What is 3D?
 
@@ -80,6 +80,8 @@ Common display methods include:
     Polarized light system (polarized filter glasses): The most common new system for cinemas.
     Active shutter system (LCD shutter glasses): The most likely standard for the first generation of 3D televisions and other displays.
 
+
+![](http://ts1.mm.bing.net/th?&id=HN.607991855582743913&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 ![](http://ts1.mm.bing.net/th?&id=HN.608010401252118515&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
 
 *Read More:*  http://www.mediacollege.com/3d/intro.html
@@ -167,6 +169,7 @@ At a thousand foot view we see a world and shapes.  The world defines our boundr
 
 > world:
 > - scene/camera/renderer
+
 > shapes:
 > - objects/functions
 
@@ -267,6 +270,6 @@ jelly fish
 http://codepen.io/zadvorsky/pen/CjlBh
 
 ## 
-My results in 3D development
-*Simpsons:*  https://www.youtube.com/watch?v=rOgS8gTATv8
+My results in 3D development (50 secs)
+*Simpsons:*  http://youtu.be/rOgS8gTATv8?t=50s
 
