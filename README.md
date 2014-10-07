@@ -165,11 +165,13 @@ The Outlook
 
 ----------------
 ##  Where Its @
-*learn more*        http://gamingJS.com
-> 
-*read more:*        http://threejs.org/docs/
-> 
-*online editor:*    http://threejs.org/editor/
+
+<ul>
+<li>*learn more*        http://gamingJS.com</li>
+<li>*read more:*        http://threejs.org/docs/</li>
+<li>*online editor:*    http://threejs.org/editor/</li>
+<li>*threejs:*          http://threejs.org/examples/</li>
+</ul>
 
 ----------------
 ## Development
@@ -186,14 +188,14 @@ At a thousand foot view we see a world and shapes.  The world defines our boundr
 > To build a world and put shapes in it.  We go through a few abstract steps.
 > - *1* Start with a scene
 > - *2* Add camera perspective
-> - *3* Render canva or webgl
+> - *3* Render canvas or webgl
 > - *4* Add objects
 > - *5* View frame in browser
 
 ![](http://www.3dkingdom.org/images/tutorials/bullet/images/matrix02.gif)
 
 Lets start code 3D in the browser
-
+---------------------------------
 > 1- ballBoxTube.htm
 > - DEMO WHAT IT TAKES TO SETUP UP A SCENE
 > - ADD THREE JS OBJECTS
@@ -217,54 +219,32 @@ Lets start code 3D in the browser
 > - WE WILL DEMO THE TWEEN SMOOTHNESS
 > - ADD COLLISION DETECTION TO TREES THAT AVATAR CAN NOT PASS THROUGH
 
-
+> 6 - avatarGame.htm
+> - ADD SCOREBOARDJS FOR GAME TIMER AND MESSAGING
+> - ADD SOUNDSJS FOR GAME NOISE
 
 ---------------
 
-## 3D Examples
+## 3D Examples ThreeJS
 
 star wars 7
 http://codepen.io/silicon_hacker/pen/tuJvm
 
 3D examples by others:
 
-spin blocks
-http://codepen.io/johnblazek/pen/DqGAg
+cloth
+http://threejs.org/examples/#webgl_animation_cloth
 
-flat design
-http://codepen.io/koheishingai/pen/yfxnH
-
-geosphere doodle
-http://codepen.io/jonbrennecke/pen/yBCel
-
-tween worm
-http://codepen.io/tobbecnet/pen/Lfdxu
-
-matrix sphere
-http://codepen.io/uriuriuriu/pen/rCiqz
+webgl
+http://threejs.org/examples/#webgl_postprocessing_dof
 
 thermoGlobalNucularWar
 http://codepen.io/naoyashiga/pen/roaBy
 
-digiStringArt
-http://codepen.io/Octavector/pen/rdbHt
-
-texture graphic
+egyptTextureScroll
 http://codepen.io/Mombasa/pen/ivdyC
 
-digi sponge
-http://codepen.io/naoyashiga/pen/fealH
-
-digi spin coil
-http://codepen.io/code_dependant/pen/CKako
-
-desert art
-http://codepen.io/Francext/pen/xcaHD
-
-eqlizer
-http://codepen.io/caseyyee/pen/bhuFa
-
-tween2Flat
+tween1toMany
 http://codepen.io/auginator/pen/msaEH
 
 jelly fish

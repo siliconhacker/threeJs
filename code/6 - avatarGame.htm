@@ -5,6 +5,8 @@
 <script src="http://gamingJS.com/Scoreboard.js"></script>
 <script src="http://gamingJS.com/Sounds.js"></script>
 <script>
+// ADD SCOREBOARDJS FOR GAME TIMER AND MESSAGING
+// ADD SOUNDSJS FOR GAME NOISE
 
 // Build up the world
 var scene = new THREE.Scene();
@@ -125,7 +127,7 @@ function shakeTree() {
 }
 shakeTree();
 
-// Animate Virtual World
+// Animate Virtual World Main Controler
 var clock = new THREE.Clock(true);
 function animate() {
  requestAnimationFrame(animate);
@@ -224,7 +226,7 @@ document.addEventListener('keydown', function(event) {
   if (code == 90) is_cartwheeln = !is_cartwheeln;  //z
   if (code == 89) is_spinning = !is_spinning;  //y
 
-  if (detectCollisions()) {
+  if (detectCollisions())  {
     if (is_moving_left) marker.position.x = marker.position.x+5;
     if (is_moving_right) marker.position.x = marker.position.x-5;
     if (is_moving_forward) marker.position.x = marker.position.z+5;
