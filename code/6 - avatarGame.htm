@@ -1,4 +1,4 @@
-<body>6 - avatarGame</body>
+<body style="background-color:#BBFFB5; overflow:hidden;">6 - avatarGame</body>
 <script src="http://gamingJS.com/Three.js"></script>
 <script src="http://gamingJS.com/ChromeFixes.js"></script>
 <script src="http://gamingJS.com/Tween.js"></script>
@@ -207,15 +207,15 @@ document.addEventListener('keydown', function(event) {
   if (code == 32) jump();
     //5 is slower 50 is faster
   if (code == 37) {
-    marker.position.x = marker.position.x-50;  //left
+    marker.position.x = marker.position.x-5;  //left
     is_moving_left = true;
   }
   if (code == 38) {
-    marker.position.z = marker.position.z-50;  //up - forward
+    marker.position.z = marker.position.z-5;  //up - forward
     is_moving_forward = true;
   }
   if (code == 39) {
-    marker.position.x = marker.position.x+50;  //right
+    marker.position.x = marker.position.x+5;  //right
     is_moving_right = true;
   }
   if (code == 40) {
